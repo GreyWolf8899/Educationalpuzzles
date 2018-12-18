@@ -1,4 +1,8 @@
 {
-  "name":"mick",
-  "ids" : "1234567890"
+  "names":"mick",
+  "ids":"mick",
+  "imgName":"mick",
+  "fileName":"mick",
+  "score":"mick",
+  "times" : "1234567890"
 }
