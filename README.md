@@ -2,7 +2,7 @@
   "names":"mick",
   "ids":"mick",
   "imgName":"mick",
-  "fileName":"US",
+  "fileName":"CN",
   "score":"mick",
   "times" : "1234567890"
 }
